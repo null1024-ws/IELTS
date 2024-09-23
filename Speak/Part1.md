@@ -5,7 +5,7 @@ Currently I'm a research engineer working at Singapore Management University. I'
 ```
 ### 2. Do you think this is a good place to work?
 ```
-Yes, I think SMU is really a good place to work. For salary, I can get 4k singapore dollars every month. It's totally enough for a single man like me. And every staff will be equipped with a new laptop or desktop. Plus, there are great benefits.
+Yes, I think SMU is really a good place to work. For salary, I can get 2k singapore dollars every month. It's totally enough for a single man like me. And every staff will be equipped with a new laptop or desktop. Plus, there are great benefits.
 ```
 ### 3. What are your work plans for the future?
 ```
