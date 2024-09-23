@@ -17,5 +17,9 @@ Oh, so many things. I am a research engineer, so I would say that the best part 
 ```
 ### 5. Would you prefer to work from home or to go out to work?
 ```
-That's a popular question, right?
+That's a popular question these days, right? I prefer to work from home. That means no stress about being late, and I can focus on my work with fewer distractions.
+```
+### 6. Is there a job that you would like to do in the future?
+```
+That's a tough question. If I could choose, I would like to be a researcher at a major tech company. This would give me the opportunity to work on large-scale projects and collaborate with experts in the field. I believe being part of a big organization could significantly enhance my research capabilities and allow me to make a greater impact.
 ```
