@@ -23,3 +23,9 @@ That's a popular question these days, right? I prefer to work from home. That me
 ```
 That's a tough question. If I could choose, I would like to be a researcher at a major tech company. This would give me the opportunity to work on large-scale projects and collaborate with experts in the field. I believe being part of a big organization could significantly enhance my research capabilities and allow me to make a greater impact.
 ```
+## Topic 2 Home
+### 1. Where are you living at the moment? (Please describe the place where you live.)
+```
+
+```
+### 2.
