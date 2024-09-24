@@ -23,9 +23,22 @@ That's a popular question these days, right? I prefer to work from home. That me
 ```
 That's a tough question. If I could choose, I would like to be a researcher at a major tech company. This would give me the opportunity to work on large-scale projects and collaborate with experts in the field. I believe being part of a big organization could significantly enhance my research capabilities and allow me to make a greater impact.
 ```
-## Topic 2 Home
+## Topic 2 Home (The are you live in)
 ### 1. Where are you living at the moment? (Please describe the place where you live.)
 ```
-
+I'm living in an apartment in the Novena area. It is located within the central region of Singapore. So it's very easy to take transit downtown.
 ```
-### 2.
+### 2. What’s the best thing about the place where you live now?
+```
+There is a shopping center named Zhongshan mall close to my home. It's only a five-minute walk for me. I like eating there.
+```
+### 3. Have you met many of your neighbors?
+```
+Honstly, I've only met a few. I leave early for work and come back late, so it's hard to meet people because of my schedule.
+```
+### 4. Is the area where you live now a busy or a quiet place?
+```
+I would say it's a very busy place. There are so many malls and medical centers in the Novena area. Life there is incredibly convenient, with everything you need just a short walk away.
+```
+## Tpoic 3 Hometown
+
