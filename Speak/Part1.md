@@ -41,4 +41,4 @@ Honstly, I've only met a few. I leave early for work and come back late, so it's
 I would say it's a very busy place. There are so many malls and medical centers in the Novena area. Life there is incredibly convenient, with everything you need just a short walk away.
 ```
 ## Tpoic 3 Hometown
-
+### 1. 
